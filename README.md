@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## IMPORTANT NOTE
-I couldn´t upload the meta data csv since it was too heavy for Github.
+**Both Meta Data and Ratings CSV´s are in Zip files. So in order to open them, they need to be extracted**
 
 ## Overview of the project
 We did the Extract- Transform-Load (ETL) on a movie database for a company named Amazing Prime.  
