@@ -17,6 +17,10 @@ This is the results for both, movies and ratings tables.
 ![movies_tables](https://github.com/ManuelRuizF/Movies-ETL/blob/main/resources/movies_table_count.PNG)  
 
 ### Ratings
-![ratings_tables](https://github.com/ManuelRuizF/Movies-ETL/blob/main/resources/ratings_query.PNG)  
+![ratings_tables](https://github.com/ManuelRuizF/Movies-ETL/blob/main/resources/ratings_query.PNG) 
+
+### Resources
+Data Source: wikipedia-movies.json, movies_metadata.csv, ratings.csv
+Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
 
 
