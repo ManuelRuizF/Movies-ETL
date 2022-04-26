@@ -3,7 +3,10 @@
 ## IMPORTANT NOTE
 **Both Meta Data and Ratings CSV´s are in Zip files. So in order to open them, they need to be extracted**
 
-## Overview of the project
+
+
+## Overview of the project  
+- I created an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I had to refactor the code to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
 We did the Extract- Transform-Load (ETL) on a movie database for a company named Amazing Prime.  
 Amazing prime wants to give the cleaned data to the contestants of an intern  contest.
 
