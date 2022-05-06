@@ -9,7 +9,7 @@ For this analysis, we used the following breakdown:
 write an ETL function to read three data files,
 extract and transform the Wikipedia data,
 extract and transform the Kaggle and rating data,
-load the data to a PostgreSQL Movie Database
+load the data to a PostgreSQL Movie Database.
 
 ## Overview of the project  
 - I created an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. I had to refactor the code to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
